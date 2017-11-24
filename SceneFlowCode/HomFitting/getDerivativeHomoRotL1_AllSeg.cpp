@@ -1,7 +1,7 @@
 // StereoTest.cpp : Defines the entry point for the console application.
 //
 #include <stdio.h>
-
+#include <algorithm>
 #include "Math/VectorT.h"
 #include "Math/Mat3x3T.h"
 

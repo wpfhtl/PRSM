@@ -20,7 +20,7 @@ License along with this software.
 
 #include <math.h>
 #include<vector>
-
+#include <algorithm>
 //#define _NO_OPENMP
 
 #ifndef _NO_OPENMP

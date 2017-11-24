@@ -5,7 +5,7 @@
 //#include <highgui.h>
 //#include <cxcore.h>
 #include <stdio.h>
-
+#include <algorithm>
 #include "Math/VectorT.h"
 #include "Math/Mat3x3T.h"
 
